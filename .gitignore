@@ -1,0 +1,67 @@
+Code/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Public/
+Templates/
+Videos/
+
+# system caches
+.log/
+.cache/
+
+# package manager
+.npm/
+.cargo/
+
+# development environment files
+.node_repl_history
+.rustup/
+.dotnet/
+.giget/
+.wget-hsts
+.lldb/
+bin/
+
+# session and history files
+.bash_logout
+.bash_history
+.python_history
+.lesshst
+.motd_shown
+.sudo_as_admin_successful
+.zoxide.nu
+.zcompdump
+.histfile
+.zsh_history
+.zcompdump-hp-elitebook-5.8.1.zwc
+.zcompdump-hp-elitebook-5.8.1
+.oh-my-zsh/
+
+
+# Docker related files
+.docker/
+
+# keys and configuration
+.ssh/
+.gnupg/
+
+# cloud provider configuration
+.aws
+.azure
+
+# user-specific configuration
+.local/
+.z
+
+# editor related files
+.vscode-server/
+.viminfo
+
+# jupyter lab 
+.ipython/
+.jupyter/
+
+.java
