@@ -66,3 +66,6 @@ bin/
 
 .java
 .mozilla
+.pki
+.nuget
+.zcompdump*
