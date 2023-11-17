@@ -71,3 +71,4 @@ bin/
 .nuget
 .zcompdump*
 .var
+.config/helix/runtime/grammars
