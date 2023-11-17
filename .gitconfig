@@ -8,9 +8,13 @@
 	name = Hammad Majid
 	email = hammadmajid@proton.me
 	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPRtTqNrM5BMuNYBctad0rWPc6ExLGpIh+qyoHvJ+vm5
+[init]
+	defaultBranch = master
 [gpg]
 	format = ssh
 [gpg "ssh"]
 	program = /opt/1Password/op-ssh-sign
 [commit]
 	gpgsign = true
+[core]
+	editor = hx
