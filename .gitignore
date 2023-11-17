@@ -3,6 +3,7 @@ Desktop/
 Documents/
 Downloads/
 Music/
+Notes/
 Pictures/
 Public/
 Templates/
@@ -69,3 +70,4 @@ bin/
 .pki
 .nuget
 .zcompdump*
+.var
