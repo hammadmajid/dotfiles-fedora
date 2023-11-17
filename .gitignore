@@ -72,3 +72,4 @@ bin/
 .zcompdump*
 .var
 .config/helix/runtime/grammars
+.config/lazygit/state.yml
