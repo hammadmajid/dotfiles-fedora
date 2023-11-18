@@ -101,7 +101,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ls="exa --icons --grid --group-directories-first"
 alias zj="zellij --session 42 --layout compact"
-alias gg="gitui"
+alias gg="lazygit"
 
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
