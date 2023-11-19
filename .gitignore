@@ -74,3 +74,4 @@ bin/
 .config/helix/runtime/grammars
 .config/lazygit/state.yml
 .nvm
+.config/rclone/rclone.conf
