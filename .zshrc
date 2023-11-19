@@ -96,7 +96,7 @@ export EDITOR="hx"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ls="exa --icons --grid --group-directories-first"
-alias zj="zellij --session 42 --layout compact"
+alias zj="zellij"
 alias gg="lazygit"
 
 eval "$(starship init zsh)"
