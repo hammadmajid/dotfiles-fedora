@@ -95,7 +95,7 @@ export EDITOR="hx"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias ls="exa --icons --grid --group-directories-first"
+alias ls="exa --long --no-user --icons --group-directories-first --git --header"
 alias zj="zellij"
 alias gg="lazygit"
 
