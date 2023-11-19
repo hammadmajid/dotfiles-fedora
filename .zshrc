@@ -101,3 +101,16 @@ alias gg="lazygit"
 
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
+
+# Strat zellij sessions on startup
+if [[ -z "$ZELLIJ" ]]; then
+    if [[ "$ZELLIJ_AUTO_ATTACH" == "true" ]]; then
+        zellij attach -c --layout compact
+    else
+        zellij --layout compact
+    fi
+
+    if [[ "$ZELLIJ_AUTO_EXIT" == "true" ]]; then
+        exit
+    fi
+fi
