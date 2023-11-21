@@ -75,3 +75,4 @@ bin/
 .config/lazygit/state.yml
 .nvm
 .config/rclone/rclone.conf
+.thunderbird
