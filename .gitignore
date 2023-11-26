@@ -76,3 +76,5 @@ bin/
 .nvm
 .config/rclone/rclone.conf
 .thunderbird
+.config/menus/applications-merged
+.gnome/apps
