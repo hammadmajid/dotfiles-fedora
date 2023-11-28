@@ -1,0 +1,18 @@
+[shell]
+args = ["--login"]
+program = "/usr/bin/zsh"
+
+[window]
+decorations = "none"
+startup_mode = "Maximized"
+opacity = 0.98
+
+[window.padding]
+x = 5
+y = 12
+
+[font.normal]
+family = "JetBrains Mono Nerd Font"
+
+[cursor]
+style = "Beam"
