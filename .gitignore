@@ -79,3 +79,4 @@ bin/
 .config/menus/applications-merged
 .gnome/apps
 .config/eog
+.config/enchant
