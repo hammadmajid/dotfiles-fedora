@@ -80,3 +80,4 @@ bin/
 .gnome/apps
 .config/eog
 .config/enchant
+.config/libvirt/qemu
