@@ -116,3 +116,4 @@ bin/
 .config/github-copilot/
 .config/libvirt/storage
 .config/menus
+.config/yelp/yelp.cfg
