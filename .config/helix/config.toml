@@ -1,4 +1,4 @@
-theme = "base16_transparent"
+theme = "dracula"
 
 [editor]
 auto-save = true
