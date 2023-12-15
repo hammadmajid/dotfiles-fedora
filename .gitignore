@@ -117,3 +117,4 @@ bin/
 .config/libvirt/storage
 .config/menus
 .config/yelp/yelp.cfg
+.config/background
