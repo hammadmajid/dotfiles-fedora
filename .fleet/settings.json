@@ -1,3 +1,12 @@
 {
-    "zoomLevel": 1.1
+    "zoomLevel": 1.1,
+    "theme": "dark",
+    "vimEmulationEnabled": false,
+    "editor.renderWhitespace": "All",
+    "editor.formatOnSave": true,
+    "editor.honorCamelHumps": true,
+    "files.toggleFolderMode": "singleClick",
+    "editor.showFloatingDebugPanel": false,
+    "terminal.enableFocusEditorOnEsc": true,
+    "showShortcuts": false
 }
