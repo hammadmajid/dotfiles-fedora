@@ -98,6 +98,8 @@ export EDITOR="hx"
 alias ls="exa --long --no-user --icons --group-directories-first --git --header"
 alias zj="zellij"
 alias gg="lazygit"
+alias gce="gh copilot explain"
+alias gcs="gh copilot suggest"
 
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
